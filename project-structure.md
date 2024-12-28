@@ -5,6 +5,7 @@ todo-app/
 │   ├── .env
 │   ├── package.json
 │   ├── index.js
+│   ├── Dockerfile
 │   └── routes.js
 │
 ├── todo-service/
@@ -12,6 +13,7 @@ todo-app/
 │   ├── .env
 │   ├── package.json
 │   ├── index.js
+│   ├── Dockerfile
 │   └── todoController.js
 │
 └── docker-compose.yml
