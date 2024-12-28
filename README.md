@@ -103,12 +103,6 @@ For detailed API documentation and request/response examples, please refer to th
 
 The project includes a comprehensive test suite to ensure the reliability and correctness of the Todo API. Tests cover various scenarios, including unit tests, integration tests, and end-to-end tests.
 
-To run the tests, use the following command:
-
-```bash
-npm test
-```
-
 For more information on the test suite and coverage reports, please refer to the [Testing Guide](docs/testing.md).
 
 ## 🚀 Deployment
